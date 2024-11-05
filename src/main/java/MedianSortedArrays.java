@@ -2,6 +2,10 @@ import java.util.Arrays;
 
 public class MedianSortedArrays {
 
+    /*
+    Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays.
+     */
+
     public static void main(String[] args) {
         int[] x = new int[]{1,2};
         int[] y = new int[]{3,4};
